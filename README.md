@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sapnabishtt
+<!-- - 👋 Hi, I’m @sapnabishtt -->
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning coding at a good level.
+<!-- - - 🌱 I’m currently learning coding at a good level. -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
