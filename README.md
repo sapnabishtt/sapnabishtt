@@ -2,7 +2,7 @@
 <!-- - 👀 I’m interested in ... -->
 <!-- - - 🌱 I’m currently learning coding at a good level. -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me ... bishtsapna322@gmail.com
+- 📫 How to reach me : bishtsapna322@gmail.com
 
 <!---
 sapnabishtt/sapnabishtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
